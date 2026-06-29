@@ -1,6 +1,5 @@
 ![Hi](img/github-header-image.png)
 
-![Selamat Datang](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFkb2p2ZWdyMG9xNHpsZDU0aTd0OGJueWQ5Z2RvbHE3NXpic3dqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)
 
 <!--
 **Hafidh-cloude/Hafidh-cloude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
